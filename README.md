@@ -1,17 +1,4 @@
 # python-projects009
-🤖 AI Chatbot
-
-An interactive chatbot built with Python that can communicate with users and provide responses to different questions.
-
-Features:
-
-User-friendly conversation
-Question and answer functionality
-Interactive command-line interface
-Easy to extend with additional responses
-
-Technologies: Python, AI/Chatbot concepts
-
 🧮 Calculator
 
 A simple Python calculator that performs basic mathematical operations.
